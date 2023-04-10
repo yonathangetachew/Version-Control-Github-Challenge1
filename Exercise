@@ -1,0 +1,13 @@
+1. The terminal is an application in your computer that allows you to interact with your operating system using text-based commands. It provides a way for the user to navigate the file system of the computer, run programs, as well as manage directories and files.
+
+
+2. Git is a version control system that helps developers track changes to their codebase over time. Github is a web-based platform that allows developers to store, share, and collaborate on Git repositories. The major difference between Git and Github is that Git is a tool for managing code versioning locally, while Github is a cloud-based website that provides additional features such as collaborating, reviewing your code, and tracking issues with collaborators.
+
+
+3. We use Github for a multitude reasons, such as:
+
+Collaborating with others on a codebase: Github provides a way to share code with others and work on the same codebase simultaneously.
+
+Version control: Github allows developers to track changes to their codebase over time and revert to previous versions if needed.
+
+Code review: Github provides a way to review code changes and suggest improvements before merging them into the main codebase.
